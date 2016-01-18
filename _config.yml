@@ -1,7 +1,7 @@
 name: ducamendes
 favicon: null
-layout_spectrum: 0.49528
-typography_spectrum: 0.18009
+layout_spectrum: 0.32599899428896606
+typography_spectrum: 0.055495980428531766
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#06050a'
-    - '#2c2c2c'
-    - '#6586a5'
-    - '#c0bfc4'
-  brandStrength: 0.25
-  lightness: 0.1875
-  saturation: 0
-  rhythmicContrast: 0
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8944255171809345
+  lightness: 0.8332220576703548
+  saturation: 0.7046710341237485
+  rhythmicContrast: 0.5966505690012127
 purpose: []
