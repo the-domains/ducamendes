@@ -4,14 +4,14 @@
         <description><![CDATA[ducamendes]]></description>
         <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 00:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 00:37:36 GMT</lastBuildDate>
         <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hi!</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6c189dc-995c-4d8c-be9f-7c8696e64be0.jpg">]]></description>
             <link>undefineda2894086-bf2c-4621-9a9f-2ac4c75700f0/index.html</link>
             <guid isPermaLink="false">a2894086-bf2c-4621-9a9f-2ac4c75700f0</guid>
-            <pubDate>Mon, 18 Jan 2016 00:25:49 GMT</pubDate>
+            <pubDate>Mon, 18 Jan 2016 00:32:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
