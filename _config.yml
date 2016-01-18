@@ -1,6 +1,6 @@
 name: ducamendes
 favicon: null
-layout_spectrum: 0.23421
+layout_spectrum: 0.50775
 typography_spectrum: 0.15682
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#9cc100'
-    - '#588600'
-    - '#2a4a00'
-    - '#eef198'
+    - '#ffffff'
+    - '#06050a'
+    - '#2c2c2c'
+    - '#6586a5'
+    - '#c0bfc4'
   brandStrength: 0.5
   lightness: 0.25
   saturation: 1
